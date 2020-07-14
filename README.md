@@ -10,7 +10,7 @@ Recently I have been learning Objective-C and Reverse Engineering Techniques to 
 - Studying The Basics Of Reverse Engineering specifically on iOS Binaries
 - A Proof Of Concept Jailbreak Detection Bypass for HSBC UK (Personal Challenge)
 
-**This Week I have Programmed In These Languages!**
+
 <!--START_SECTION:waka-->
 
 
