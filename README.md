@@ -4,7 +4,6 @@
 ## About Me:
 I'm a British Student studying Engineering Systems and Control. I also love developing my programming skills.
 Recently I have been learning Objective-C and Reverse Engineering Techniques to further study iOS Security Principles
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
 ## Recent Projects
 - [iOS Tweak Development Guide](https://kodeycodesstuff.tech/guide)
