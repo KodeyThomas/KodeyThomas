@@ -1,5 +1,5 @@
 ### Hi, I'm Kodey 🇬🇧
-![image](https://kodeycodesstuff.tech/images/memoji.jpeg)
+![image](https://kodeycodesstuff.tech/memoji.jpeg)
 
 ## About Me:
 I'm a British Student studying Engineering Systems and Control. I also love developing my programming skills.
