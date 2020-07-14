@@ -22,4 +22,7 @@ The best way to get a hold of me is to send me a Twitter DM [(@ThomasKodey)](htt
 ![Kodey's github stats](https://githubstats.kodeythomas.vercel.app/api?username=KodeyThomas)
 
 <!--START_SECTION:waka-->
+```text
+
+```
 <!--END_SECTION:waka-->
