@@ -12,10 +12,4 @@ Recently I have been learning Objective-C and Reverse Engineering Techniques to 
 
 
 <!--START_SECTION:waka-->
-
-
-
-
-
-
 <!--END_SECTION:waka-->
