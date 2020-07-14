@@ -14,8 +14,10 @@ Recently I have been learning Objective-C and Reverse Engineering Techniques to 
 ## Recent Projects
 - [iOS Tweak Development Guide](https://kodeycodesstuff.tech/guide)
 - Studying The Basics Of Reverse Engineering specifically on iOS Binaries
-- A Proof Of Concept Jailbreak Detection Bypass for HSBC UK (Personal Challenge)
+- [hedgeFund_](https://github.com/KodeyThomas/hedgeFund) A Proof Of Concept Jailbreak Detection Bypass for HSBC UK (Personal Challenge)
 
+## Contact Me
+The best way to get a hold of me is to send me a Twitter DM [(@ThomasKodey)](https://twitter.com/ThomasKodey)
 
 ![Kodey's github stats](https://githubstats.kodeythomas.vercel.app/api?username=KodeyThomas)
 
