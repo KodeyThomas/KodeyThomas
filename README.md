@@ -23,6 +23,10 @@ The best way to get a hold of me is to send me a Twitter DM [(@ThomasKodey)](htt
 
 <!--START_SECTION:waka-->
 ```text
-
+Logos       4 hrs 58 mins       █████████████░░░░░░░░░░░░   54.07 
+Objective-C 1 hr 55 mins        █████░░░░░░░░░░░░░░░░░░░░   20.86 
+Markdown    1 hr 35 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.34 
+Python      19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.56 
+JSON        10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.89
 ```
 <!--END_SECTION:waka-->
