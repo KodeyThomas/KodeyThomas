@@ -21,6 +21,7 @@ The best way to get a hold of me is to send me a Twitter DM [(@ThomasKodey)](htt
 
 ![Kodey's github stats](https://githubstats.kodeythomas.vercel.app/api?username=KodeyThomas)
 
+This Week So Far I have Programmed in these Languages!
 <!--START_SECTION:waka-->
 ```text
 Logos       4 hrs 58 mins       █████████████░░░░░░░░░░░░   54.07 
