@@ -15,6 +15,7 @@ Recently I have been learning Objective-C and Reverse Engineering Techniques to 
 - [iOS Tweak Development Guide](https://kodeycodesstuff.tech/guide)
 - Studying The Basics Of Reverse Engineering specifically on iOS Binaries
 - [hedgeFund_](https://github.com/KodeyThomas/hedgeFund) A Proof Of Concept Jailbreak Detection Bypass for HSBC UK (Personal Challenge)
+- [Kithara](https://github.com/KodeyThomas/Kithara) A Tweak that brings LastFM intergration right into the Control Centre
 
 ## Contact Me
 The best way to get a hold of me is to send me a Twitter DM [(@ThomasKodey)](https://twitter.com/ThomasKodey)
