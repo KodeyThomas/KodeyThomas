@@ -25,10 +25,12 @@ The best way to get a hold of me is to send me a Twitter DM [(@ThomasKodey)](htt
 This Week So Far I have Programmed in these Languages!
 <!--START_SECTION:waka-->
 ```text
-Logos       7 hrs 37 mins       ███████████░░░░░░░░░░░░░░   46.48 
-Objective-C 2 hrs 40 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.28 
-Makefile    2 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.69 
-Markdown    1 hr 57 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.97 
-Other       1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   6.52
+Week #29 : July 13 - 18
+
+Logos       8 hrs 18 mins       ███████████░░░░░░░░░░░░░░   45.61% 
+Objective-C 3 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   18.63% 
+Makefile    2 hrs 29 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.66% 
+Markdown    1 hr 57 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.78% 
+Other       1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   5.87%
 ```
 <!--END_SECTION:waka-->
