@@ -14,6 +14,7 @@ Recently I have been learning Objective-C and Reverse Engineering Techniques to 
 ## Recent Projects
 - [iOS Tweak Development Guide](https://kodeycodesstuff.tech/guide)
 - Studying The Basics Of Reverse Engineering specifically on iOS Binaries
+- [BackendDev](https://github.com/KodeyThomas/BackendDev) Documenting my progress to becoming a Backend Developer
 - [hedgeFund_](https://github.com/KodeyThomas/hedgeFund) A Proof Of Concept Jailbreak Detection Bypass for HSBC UK (Personal Challenge)
 - [Kithara](https://github.com/KodeyThomas/Kithara) A Tweak that brings LastFM intergration right into the Control Centre
 
