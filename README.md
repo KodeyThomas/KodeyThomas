@@ -23,13 +23,13 @@ The best way to get a hold of me is to send me a Twitter DM [(@ThomasKodey)](htt
 
 ![Kodey's github stats](https://githubstats.kodeythomas.vercel.app/api?username=KodeyThomas)
 
-This Week So Far I have Programmed in these Languages!
+This Week So Far I have Programmed in these Languages! (This is updated by a GitHub Action every day)
 <!--START_SECTION:waka-->
 ```text
-Markdown     12 hrs 18 mins  █████████████░░░░░░░░░░░░   51.68 % 
-JavaScript   8 hrs 44 mins   █████████░░░░░░░░░░░░░░░░   36.71 % 
-Logos        55 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
-HTML         26 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
+Markdown     12 hrs 18 mins  █████████████░░░░░░░░░░░░   51.68 %
+JavaScript   8 hrs 44 mins   █████████░░░░░░░░░░░░░░░░   36.71 %
+Logos        55 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 %
+HTML         26 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 %
 JSON         26 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 %
 ```
 <!--END_SECTION:waka-->
