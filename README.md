@@ -26,8 +26,6 @@ The best way to get a hold of me is to send me a Twitter DM [(@ThomasKodey)](htt
 This Week So Far I have Programmed in these Languages! (This is updated by a GitHub Action every day)
 <!--START_SECTION:waka-->
 ```text
-Markdown    18 mins         ████████████████░░░░░░░░░   66.29 % 
-Other       7 mins          ███████░░░░░░░░░░░░░░░░░░   28.92 % 
-Brainfuck   1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   04.78 %
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
