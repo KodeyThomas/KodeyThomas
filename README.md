@@ -36,10 +36,10 @@ The best way to get a hold of me is to send me a Twitter DM [(@ThomasKodey)](htt
 This Week So Far I have Programmed in these Languages! (This is updated by a GitHub Action every day)
 <!--START_SECTION:waka-->
 ```text
-JavaScript   10 hrs 17 mins  ████████████░░░░░░░░░░░░░   47.62 % 
-SCSS         5 hrs 58 mins   ███████░░░░░░░░░░░░░░░░░░   27.63 % 
-TypeScript   2 hrs 59 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.85 % 
-Markdown     1 hr 35 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 % 
-Vue.js       22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
+JavaScript   12 hrs 57 mins  █████████████▓░░░░░░░░░░░   54.54 % 
+SCSS         8 hrs 33 mins   █████████░░░░░░░░░░░░░░░░   35.99 % 
+Markdown     1 hr 14 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.22 % 
+TypeScript   38 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
+Other        9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
 ```
 <!--END_SECTION:waka-->
