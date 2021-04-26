@@ -19,6 +19,7 @@ Recently I have been learning Objective-C and Reverse Engineering Techniques to 
 - [Kithara](https://github.com/KodeyThomas/Kithara) A Tweak that brings LastFM intergration right into the Control Centre
 
 ## Technologies I Use
+- [Golang](https://golang.org)
 - [Objective-C](https://developer.apple.com/documentation/objectivec)
 - [JavaScript](https://www.javascript.com/)
 - [React.JS](https://reactjs.org/)
