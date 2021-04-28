@@ -11,7 +11,7 @@ I'm a British Backend Web Developer and love learning new tech stacks.
 ```
 
 ## Recent Projects
-- [iOS Tweak Development Guide](https://kodeycodesstuff.tech/guide)
+- [iOS Tweak Development Guide](https://kodey.dev/guide)
 - Studying The Basics Of Reverse Engineering specifically on iOS Binaries
 - [hedgeFund_](https://github.com/KodeyThomas/hedgeFund) A Proof Of Concept Jailbreak Detection Bypass for HSBC UK (Personal Use)
 - Client Projects
