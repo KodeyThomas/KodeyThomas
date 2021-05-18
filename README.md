@@ -1,6 +1,6 @@
 <h1>Hi 👋, I'm Kodey</h1>
 <h3>A Backend Web Developer from the Home Counties, UK</h3>
-![image](https://kodeycodesstuff.tech/memoji.jpg)
+[![image](https://kodeycodesstuff.tech/memoji.jpg)
 <h4>Find me here:</h4>
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1ABC9c)](https://twitter.com/ThomasKodey)
