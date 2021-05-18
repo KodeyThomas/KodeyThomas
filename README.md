@@ -10,7 +10,7 @@
 
 - 👨‍💻 My iOS 13/14 Tweak Development Guide is available on my site [kodey.dev/guide](https://kodey.dev/guide)
 
-- 📝 I write articles on [Medium](https://kodeythomas.medium.com) & [Dev.to](https://dev.to)
+- 📝 I write articles on [Medium](https://kodeythomas.medium.com) & [Dev.to](https://dev.to/kodeythomas)
 
 - 💬 I used to make iOS Tweaks... Might get back into that soon!
 
