@@ -58,6 +58,7 @@
 <br>
 
 ## 📩 Latest Blog Posts
+- [Should you Mine on your Gaming Rig](https://kodeythomas.medium.com/should-you-mine-on-your-gaming-rig-8352cccb6b02)
 - [Learning Go - Part 4](https://kodeythomas.medium.com/learning-go-part-4-fad5ef3379e6)
 - [Learning Go - Part 3](https://kodeythomas.medium.com/learning-go-part-3-c4b69a92a4cf)
 - [Learning Go - Part 2](https://kodeythomas.medium.com/learning-go-part-2-1e3c8180e6ef)
