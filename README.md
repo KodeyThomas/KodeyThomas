@@ -76,8 +76,10 @@
 This Week So Far I have Programmed in these Languages! (This is updated by a GitHub Action every day)
 <!--START_SECTION:waka-->
 ```text
-Markdown   29 mins         ████████████▓░░░░░░░░░░░░   50.59 % 
-JSX        26 mins         ███████████▒░░░░░░░░░░░░░   45.78 % 
-JSON       2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
+JSX          1 hr 26 mins    ███████████████████▒░░░░░   76.84 % 
+JavaScript   11 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.92 % 
+Markdown     8 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
+Bash         3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
+JSON         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
 ```
 <!--END_SECTION:waka-->
