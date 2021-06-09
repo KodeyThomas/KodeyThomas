@@ -76,10 +76,10 @@
 This Week So Far I have Programmed in these Languages! (This is updated by a GitHub Action every day)
 <!--START_SECTION:waka-->
 ```text
-PHP          5 hrs 2 mins    ███████▒░░░░░░░░░░░░░░░░░   28.69 % 
-JSX          4 hrs 43 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.89 % 
-JavaScript   2 hrs 21 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.43 % 
-Go           1 hr 45 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.06 % 
-Terraform    1 hr 5 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+Go           7 hrs 36 mins   ████████▒░░░░░░░░░░░░░░░░   33.26 % 
+JavaScript   3 hrs 46 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.51 % 
+JSX          3 hrs 42 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.23 % 
+PHP          3 hrs 30 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.34 % 
+Terraform    1 hr 5 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
 ```
 <!--END_SECTION:waka-->
