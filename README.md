@@ -76,10 +76,10 @@
 This Week So Far I have Programmed in these Languages! (This is updated by a GitHub Action every day)
 <!--START_SECTION:waka-->
 ```text
-Go           10 hrs 57 mins  █████████████░░░░░░░░░░░░   52.65 % 
-JavaScript   3 hrs 49 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.38 % 
-JSX          2 hrs 23 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.50 % 
-PHP          56 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 % 
-Other        35 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
+Go           11 hrs 28 mins  █████████████▒░░░░░░░░░░░   53.24 % 
+JavaScript   3 hrs 49 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.75 % 
+JSX          2 hrs 23 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+PHP          56 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 % 
+Logos        36 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
 ```
 <!--END_SECTION:waka-->
