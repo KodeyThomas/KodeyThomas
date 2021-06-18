@@ -74,7 +74,7 @@
 </a>
 <br>
 <a href="https://github.com/KodeyThomas">
-   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/wakatime?username=KodeyThomas&theme=tokyonight" alt="Kodey's GitHub Stats" />
+   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/wakatime?username=KodeyThomas&theme=onedark" alt="Kodey's GitHub Stats" />
 </a>
 
 This Week So Far I have Programmed in these Languages! (This is updated by a GitHub Action every day)
