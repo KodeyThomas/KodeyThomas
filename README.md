@@ -73,17 +73,8 @@
    <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=KodeyThomas&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Kodey's GitHub Stats" />
 </a>
 <br>
+
+
 <a href="https://github.com/KodeyThomas">
    <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/wakatime?username=KodeyThomas&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Kodey's GitHub Stats" />
 </a>
-
-This Week So Far I have Programmed in these Languages! (This is updated by a GitHub Action every day)
-<!--START_SECTION:waka-->
-```text
-JSX          4 hrs 35 mins   ████████▓░░░░░░░░░░░░░░░░   34.07 % 
-JavaScript   3 hrs 27 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.61 % 
-SCSS         1 hr 20 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.97 % 
-Go           1 hr 13 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.13 % 
-PHP          45 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
-```
-<!--END_SECTION:waka-->
