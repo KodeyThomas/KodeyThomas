@@ -14,6 +14,8 @@
 
 - 💬 I used to make iOS Tweaks... Might get back into that soon!
 
+[![wakatime](https://wakatime.com/badge/user/e50d99e5-1739-4aa0-9bff-fd5665611df7.svg)](https://wakatime.com/@e50d99e5-1739-4aa0-9bff-fd5665611df7)
+
 ## 💼 Skills
 
 ### Languages / Frameworks
