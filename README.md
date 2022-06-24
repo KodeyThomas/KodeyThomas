@@ -6,7 +6,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=1abc9c)](https://www.linkedin.com/in/kodey-thomas-472682184/)
 [![Dev.to Badge](https://img.shields.io/badge/Dev.to-Profile-informational?style=flat&logo=DEV.TO&logoColor=white&color=1abc9c)](https://dev.to/kodeythomas)
 
-- 🌱 I’m currently improving my knowledge on **React & Go**
+- 🍄 I'm currently building
 
 - 👨‍💻 My iOS 13/14 Tweak Development Guide is available on my site [kodey.dev/guide](https://kodey.dev/guide)
 
