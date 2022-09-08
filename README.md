@@ -58,6 +58,9 @@
 </details>
 
 <br>
+![](https://raw.githubusercontent.com/KodeyThomas/KodeyThomas/master/profile-3d-contrib/profile-night-rainbow.svg)
+
+<br>
 
 ## 📩 Latest Blog Posts
 - [Should you Mine on your Gaming Rig](https://kodeythomas.medium.com/should-you-mine-on-your-gaming-rig-8352cccb6b02)
