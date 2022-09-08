@@ -58,7 +58,7 @@
 </details>
 
 <br>
-![](https://raw.githubusercontent.com/KodeyThomas/KodeyThomas/master/profile-3d-contrib/profile-night-rainbow.svg)
+<img src="https://raw.githubusercontent.com/KodeyThomas/KodeyThomas/master/profile-3d-contrib/profile-night-rainbow.svg" />
 
 <br>
 
