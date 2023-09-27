@@ -5,6 +5,7 @@
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1ABC9c)](https://twitter.com/ThomasKodey)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=1abc9c)](https://www.linkedin.com/in/kodey-thomas-472682184/)
 [![Dev.to Badge](https://img.shields.io/badge/Dev.to-Profile-informational?style=flat&logo=DEV.TO&logoColor=white&color=1abc9c)](https://dev.to/kodeythomas)
+[![wakatime](https://wakatime.com/badge/user/e50d99e5-1739-4aa0-9bff-fd5665611df7.svg)](https://wakatime.com/@e50d99e5-1739-4aa0-9bff-fd5665611df7)
 
 - 🧗🏻 I'm probably climbing
 
@@ -14,7 +15,8 @@
 
 - 💬 I used to make iOS Tweaks... Might get back into that soon!
 
-[![wakatime](https://wakatime.com/badge/user/e50d99e5-1739-4aa0-9bff-fd5665611df7.svg)](https://wakatime.com/@e50d99e5-1739-4aa0-9bff-fd5665611df7)
+## 📩 Latest Blog Posts
+- [Trifecta of Stupidity - Lambdas are cheap, poor decisions aren't](https://blog.kodey.dev/posts/the-trifecta-of-stupidity)
 
 ## 💼 Skills
 
@@ -58,23 +60,7 @@
 </details>
 
 <br>
-<img src="https://raw.githubusercontent.com/KodeyThomas/KodeyThomas/master/profile-3d-contrib/profile-night-rainbow.svg" />
 
-<br>
-
-## 📩 Latest Blog Posts
-- [Should you Mine on your Gaming Rig](https://kodeythomas.medium.com/should-you-mine-on-your-gaming-rig-8352cccb6b02)
-- [Go for Beginners - Part 4](https://kodeythomas.medium.com/learning-go-part-4-fad5ef3379e6)
-- [Go for Beginnners - Part 3](https://kodeythomas.medium.com/learning-go-part-3-c4b69a92a4cf)
-- [Go for Beginners - Part 2](https://kodeythomas.medium.com/learning-go-part-2-1e3c8180e6ef)
-- [Go for Beginners - Part 1](https://kodeythomas.medium.com/learning-go-part-1-bc16adfca0cd6)
-
-
-<br>
-
-## &#x1f4c8; Random Stats
-
-<a href="https://github.com/KodeyThomas">
-   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=KodeyThomas&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Kodey's GitHub Stats" />
-</a>
-<br>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=kodeythomas&layout=compact&theme=dracula" width="60%" />
+</p>
